@@ -1,9 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laugh:). I love Tech Stuffs, so joining GitHub to get more knowledge about languages, **PRACTICAL KNOWLEDGE**
+I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laughs:). I love Tech Stuffs, so joining GitHub to get more knowledge about languages, **PRACTICAL KNOWLEDGE**
 ## Programming Languages:
 
-- **Languages learnt: C++, Python(almost) :snake:**
+- **Languages learnt: C++, Python(Almost) :snake:, PHP(Almost)**
  
 - **Currently learning: JavaScript(very noob), Shell Scripting, C#, etc**
 
