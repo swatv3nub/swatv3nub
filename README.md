@@ -3,7 +3,7 @@
 I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laughs:). I love Tech Stuffs, so joining GitHub to get more knowledge about languages, **PRACTICAL KNOWLEDGE**
 ## Programming Languages:
 
-- **Languages learnt: C++, Python(Almost) :snake:, PHP(Almost)**
+- **Languages learnt: C++, Python(Almost) :snake:, PHP(Almost), Dart(again Almost)**
  
 - **Currently learning: JavaScript(very noob), Shell Scripting, C#, etc**
 
