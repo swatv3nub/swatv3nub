@@ -16,6 +16,6 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 
 My Favs
 1. [@MrHackfreaksRobot](https://t.me/MrHackfreaksRobot) and Its [Repository](https://github.com/swatv3nub/Hackfreaks)
-2. [@FreakyUserbot](https://t.me/FreakyUserbot) and its [Repository]((https://github.com/swatv3nub/FreakyUserbot)
+2. [@FreakyUserbot](https://t.me/FreakyUserbot) and its [Repository](https://github.com/swatv3nub/FreakyUserbot)
 
 See You Soomn
