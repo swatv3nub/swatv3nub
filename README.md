@@ -16,3 +16,5 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=swatv3nub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
