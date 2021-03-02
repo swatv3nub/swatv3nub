@@ -14,7 +14,11 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatv3nub" alt="swatv3nub" /></a> </p>
 
-
+## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=swatv3nub&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatv3nub&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Time Spent Coding 
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=swatv3nub&layout=compact&theme=radical)
