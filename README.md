@@ -20,5 +20,4 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatv3nub&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Time Spent Coding 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=swatv3nub&layout=compact&theme=radical)
+
