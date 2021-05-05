@@ -5,10 +5,10 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 
 - **Languages learnt: C++, Python(Almost) :snake:, PHP(Almost), Dart(again Almost)**
  
-- **Currently learning: JavaScript(very noob), Shell Scripting, C#, etc**
+- **Currently learning: JavaScript(very noob), Rust, Shell Scripting, C#, Java etc**
 
 ### Find me out at
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Swonit)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MaskedVirus)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spechide/&title=Profile%20Views)
 
