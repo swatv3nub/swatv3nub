@@ -1,4 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="github-metrics.svg" alt="Metrics" width="100%">
+
+<!---## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laughs:). I love Tech Stuffs, so joining GitHub to get more knowledge about languages, **PRACTICAL KNOWLEDGE**
 ## Programming Languages:
@@ -26,4 +28,4 @@ I'm a Student, Music Producer, a CEH(noob) and a Noob Dev(kanger basically :laug
 ## All time Contribution
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=swatv3nub&theme=radical&ring=DD0B0B)
 
-[![@maskedvirus's Holopin board](https://holopin.io/api/user/board?user=maskedvirus)](https://holopin.io/@maskedvirus)
+[![@maskedvirus's Holopin board](https://holopin.io/api/user/board?user=maskedvirus)](https://holopin.io/@maskedvirus)-->
