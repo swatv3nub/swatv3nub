@@ -13,7 +13,7 @@ $ pwd
 
 ```
 $ links --dump
-  portfolio & blog    → http://sw4nit.is-a.dev [much better version of this]
+  portfolio & blog    → http://sw4nit.dev [much better version of this]
   linkedin            → https://linkedin.com/in/maskedvirus 
   instagram           → https://instagram.com/sw4nit
   email               → mailto:sw4nit@gmail.com
